@@ -7,6 +7,10 @@
 
 # Установка
 ``pip install pillow``
+
 ``git clone https://github.com/Catware-Foundation/Ascii-Generator.git``
+
 ``cd Ascii-Generator/``
+
 ``python3 cb.py``
+
