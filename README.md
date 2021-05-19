@@ -1,2 +1,4 @@
 # Ascii-Generator
-Simple black-white ascii art generator
+Простой генератор чёрно-белых ASCII артов
+
+(Примерный результат)[https://dpaste.com/DLQDUL4JC.txt]
